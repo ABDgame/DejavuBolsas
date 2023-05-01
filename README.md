@@ -1,7 +1,7 @@
 # DejavuBolsas
 Site responsivo de uma padaria, adaptado por MQJogos,
-desenvolvido com 67.0% de elementos HTML, 31.6% de variáveis CSS e 
-1.4% de práticas JavaScript.
+desenvolvido com 63.0% de elementos HTML, 34.5% de variáveis CSS e 
+2.5% de práticas JavaScript.
 #
 https://youtu.be/3l8Lob4ysI0
 #
